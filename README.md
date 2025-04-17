@@ -75,14 +75,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/carlosllevi/count.svg?"  />
-</div>
-
-###
-
 <h4 align="center">Thanks for visiting!</h4>
 
 ###
