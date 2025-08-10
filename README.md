@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="180" src="https://sdmntpritalynorth.oaiusercontent.com/files/00000000-1440-6246-958b-e22fecdbaf92/raw?se=2025-04-17T21%3A15%3A24Z&sp=r&sv=2024-08-04&sr=b&scid=584523a1-9a68-567d-89af-e209435446b7&skoid=a3336399-497e-45e5-8f28-4b88ecca3d1f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-16T21%3A26%3A53Z&ske=2025-04-17T21%3A26%3A53Z&sks=b&skv=2024-08-04&sig=cqL2dYaDT2TUfHgHTjt8s8gWZtGQCKmYfqe8eGMjG2o%3D"  />
+
 
 ###
 
