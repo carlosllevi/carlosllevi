@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">🎓 Computer Science student<br>💻 Beginner in programming<br>🚀 Looking for opportunities to grow in the development field<br>📚 Currently studying: programming logic, control structures, and more!</p>
+<br clear="both">
+
+<p align="center">🎓 Computer Science student<br>💻 Beginner in programming<br>🚀 Looking for opportunities to grow in the development field<br>📚 Currently studying: Java, Godot and code versioning!</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosllevi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
